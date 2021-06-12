@@ -1,9 +1,9 @@
-<h1 align="center">Hi I'm Karthik Mothiki aka Karthik👋 </h1>
+<h1 align="center">Hi I'm Thinesh Kumar T M👋 </h1>
 <h3 align="center">A Passionate Tech and Robotics Enthusiast</h3>
 
 <p align="center">
-	<a href="mailto:karthik1111mothiki@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="https://karthikmothiki.github.io/Portfolio/" target="_blank" align="center">Portfolio</a>
+	<a href="mailto:tmthineshkumar.work@gmail.com" target="_blank" align="center">Send Email</a> |
+	<a href="https://thinesh09.github.io/" target="_blank" align="center">Website</a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikMothiki&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="KarthikMothiki" /></p>
