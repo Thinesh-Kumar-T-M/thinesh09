@@ -76,7 +76,7 @@ if __name__ == "__main__":
 📫 You can reach out to me ...:smile::smile:
 <br />
 
-![ThineshKumar](https://avatars.githubusercontent.com/u/82699150?s=96&v=4)
+![ThineshKumar](https://avatars.githubusercontent.com/u/82699150?v=4)
 <br />
 </p>
 
