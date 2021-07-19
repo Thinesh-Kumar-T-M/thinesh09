@@ -111,7 +111,7 @@ I'm involved in a discord server! [![Discord](https://img.shields.io/discord/779
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tmthineshkumar.work@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)][telegram]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic=instagram&logoColor=white)][instagram]
-![Twitter Follow](https://img.shields.io/twitter/follow/thinesh_09?style=plastic)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thinesh_09?style=plastic)[twitter]
 
 # Thank you for scroling down!!
 </p>
